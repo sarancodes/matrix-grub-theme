@@ -1,2 +1,2 @@
 # matrix-grub-theme
-Matrix GRUB Theme #git 
+Matrix GRUB Theme 
