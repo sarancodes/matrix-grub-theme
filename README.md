@@ -1,8 +1,8 @@
-## Fallout GRUB theme
+## Matrix GRUB theme
 
 Supported languages: Chinese (simplified), English, French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Turkish, Ukrainian
 
-![](https://i.imgur.com/7LUYwTn.gif)
+![](https://i.imgur.com/7LUYwTn.gi)
 
 ---
 
@@ -19,7 +19,4 @@ Supported languages: Chinese (simplified), English, French, German, Italian, Nor
 
 ---
 
-### See also
 
-- [Poly light GRUB theme](https://github.com/shvchk/poly-light)
-- [Poly dark GRUB theme](https://github.com/shvchk/poly-dark)
